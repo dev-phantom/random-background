@@ -5,9 +5,10 @@ div{
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 button{
-    margin-top: 50%;
+    margin-top: 20%;
     border: 1px solid #000;
     width: 7rem;
     height: 2rem;
